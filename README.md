@@ -19,7 +19,7 @@ Before you start, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone git@github.com:lazarous18/SocialmediaPlatform.git
+git clone git@github.com:SudhirSingh62/SocialmediaPlatform.git
 cd SocialmediaPlatform
 ```
 ### 2. Database Setup
